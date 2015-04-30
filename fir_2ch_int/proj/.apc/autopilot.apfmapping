@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="fir_2ch_int.cpp" path="C:\Users\Alexander\Documents\Git\HLS\fir_2ch_int\fir_2ch_int.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="fir_2ch_int_dout_q_cmodel.txt" path="C:\Users\Alexander\Documents\Git\HLS\fir_2ch_int\fir_2ch_int_dout_q_cmodel.txt"/>
+    <originFiles name="fir_2ch_int_dout_i_cmodel.txt" path="C:\Users\Alexander\Documents\Git\HLS\fir_2ch_int\fir_2ch_int_dout_i_cmodel.txt"/>
+    <originFiles name="fir_2ch_int_din_q.txt" path="C:\Users\Alexander\Documents\Git\HLS\fir_2ch_int\fir_2ch_int_din_q.txt"/>
+    <originFiles name="fir_2ch_int_din_i.txt" path="C:\Users\Alexander\Documents\Git\HLS\fir_2ch_int\fir_2ch_int_din_i.txt"/>
+    <originFiles name="fir_2ch_int_tb.cpp" path="C:\Users\Alexander\Documents\Git\HLS\fir_2ch_int\fir_2ch_int_tb.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

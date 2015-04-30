@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vivadoHLSLog:LogRoot xmlns:vivadoHLSLog="www.xilinx.com/vivadoHLSLog">
+  <errorLogs>
+    <logs>
+      <synLog>
+        <logs message="@E [HLS-70] Part 'xc7k160t' is not installed.&#xD;&#xA;&#xD;&#xA;    while executing&#xD;&#xA;&quot;open_solution &quot;solution1&quot;&quot;&#xD;&#xA;    (file &quot;C:/Users/Alexander/Documents/Git/HLS/fir_2ch_int/proj/solution1/csynth.tcl&quot; line 14)&#xD;&#xA;&#xD;&#xA;" projectName="proj" solutionName="solution1" date="2015-04-17T10:50:14.270+0200"/>
+      </synLog>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </errorLogs>
+  <warningLogs>
+    <logs>
+      <synLog>
+        <logs message="@W [LIC-102] Failed to get a license [HLS]." projectName="proj" solutionName="solution1" date="2015-04-17T10:50:13.650+0200" type="Warning"/>
+        <logs message="@W [LIC-102] Failed to get a license [ap_opencl]." projectName="proj" solutionName="solution1" date="2015-04-17T10:50:13.630+0200" type="Warning"/>
+        <logs message="@W [LIC-102] Failed to get a license [VIVADO_HLS]." projectName="proj" solutionName="solution1" date="2015-04-17T10:50:13.620+0200" type="Warning"/>
+      </synLog>
+      <simLog/>
+      <mgLog/>
+      <packageLog/>
+      <csimLog/>
+    </logs>
+  </warningLogs>
+</vivadoHLSLog:LogRoot>

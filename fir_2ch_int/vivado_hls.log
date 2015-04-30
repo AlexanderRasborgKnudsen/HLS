@@ -1,0 +1,20 @@
+@W [LIC-102] Failed to get a license [VIVADO_HLS].
+@W [LIC-102] Failed to get a license [ap_opencl].
+@W [LIC-102] Failed to get a license [HLS].
+@I [HLS-10] Running 'C:/Xilinx/Vivado_HLS/2014.4/bin/unwrapped/win64.o/vivado_hls.exe'
+            for user 'Alexander' on host 'laptop-ark' (Windows NT_amd64 version 6.2) on Fri Apr 17 10:50:13 +0200 2015
+            in directory 'C:/Users/Alexander/Documents/Git/HLS/fir_2ch_int'
+@I [HLS-10] Opening project 'C:/Users/Alexander/Documents/Git/HLS/fir_2ch_int/proj'.
+@I [HLS-10] Adding design file 'fir_2ch_int.cpp' to the project
+@I [HLS-10] Adding test bench file 'fir_2ch_int_dout_q_cmodel.txt' to the project
+@I [HLS-10] Adding test bench file 'fir_2ch_int_dout_i_cmodel.txt' to the project
+@I [HLS-10] Adding test bench file 'fir_2ch_int_din_q.txt' to the project
+@I [HLS-10] Adding test bench file 'fir_2ch_int_din_i.txt' to the project
+@I [HLS-10] Adding test bench file 'fir_2ch_int_tb.cpp' to the project
+@I [HLS-10] Opening solution 'C:/Users/Alexander/Documents/Git/HLS/fir_2ch_int/proj/solution1'.
+@I [SYN-201] Setting up clock 'default' with a period of 4ns.
+@E [HLS-70] Part 'xc7k160t' is not installed.
+
+    while executing
+"open_solution "solution1""
+    (file "C:/Users/Alexander/Documents/Git/HLS/fir_2ch_int/proj/solution1/csynth.tcl" line 14)
